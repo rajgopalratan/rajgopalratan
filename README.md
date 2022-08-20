@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/rajgopalratan" target="blank"><img src="https://img.shields.io/twitter/follow/rajgopalratan?logo=twitter&style=for-the-badge" alt="rajgopalratan" /></a> </p>
 
+- 🔭 I’m currently working on **Learning Web Development**
+
+- 🌱 I’m currently learning **Android, Mern**
+
+- ⚡ Fun fact **It's /rɑː(d)ʒ/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajgopalratan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajgopalratan" height="30" width="40" /></a>
