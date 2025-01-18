@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/rajgopalratan" target="blank"><img src="https://img.shields.io/twitter/follow/rajgopalratan?logo=twitter&style=for-the-badge" alt="rajgopalratan" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Web Development**
-
-- 🌱 I’m currently learning **Android, Mern**
-
 - ⚡ Fun fact **It's /rɑː(d)ʒ/**
 
 <h3 align="left">Connect with me:</h3>
